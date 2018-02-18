@@ -1,0 +1,3 @@
+﻿  SudokuBTrk.cpp
+c:\edward\vs projects\sudokubtrk\sudokubtrk\sudokubtrk.cpp(122): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SudokuBTrk.vcxproj -> C:\EDWARD\VS Projects\SudokuBTrk\Debug\SudokuBTrk.exe
